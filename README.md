@@ -1,3 +1,3 @@
-# timplate (aka template repo)
+# blog post example
 
-basic html, css and javascript template
+basic html and css blog post example

@@ -1,2 +1,35 @@
-/* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+  }
+  
+h1 {
+    margin-left: -40px;
+    margin-top: -40px; 
+    margin-right: -40px;
+    padding-left: 50px;
+    padding-top: 50px;
+    background: rgb(122, 134, 148);
+    color: #FFFF;
+    height: 60px;
+}
+
+h2 {
+    margin-left: 100px;
+    margin-top: 200px; 
+}
+
+div {
+    margin: auto;
+    width: 70%;
+    padding-top: 50px;
+}
+
+img{
+    width: 700px;
+    height: 400px;
+}
